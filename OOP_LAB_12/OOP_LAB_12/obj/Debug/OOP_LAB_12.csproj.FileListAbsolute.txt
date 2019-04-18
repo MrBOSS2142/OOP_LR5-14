@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\OOP_LAB_12\OOP_LAB_12\bin\Debug\OOP_LAB_12.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\OOP_LAB_12\OOP_LAB_12\bin\Debug\OOP_LAB_12.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\OOP_LAB_12\OOP_LAB_12\bin\Debug\OOP_LAB_12.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\OOP_LAB_12\OOP_LAB_12\obj\Debug\OOP_LAB_12.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\OOP_LAB_12\OOP_LAB_12\obj\Debug\OOP_LAB_12.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\OOP_LAB_12\OOP_LAB_12\obj\Debug\OOP_LAB_12.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\OOP_LAB_12\OOP_LAB_12\obj\Debug\OOP_LAB_12.pdb
+d:\OOP\OOP_LAB_12\OOP_LAB_12\bin\Debug\OOP_LAB_12.exe.config
+d:\OOP\OOP_LAB_12\OOP_LAB_12\bin\Debug\OOP_LAB_12.exe
+d:\OOP\OOP_LAB_12\OOP_LAB_12\bin\Debug\OOP_LAB_12.pdb
+d:\OOP\OOP_LAB_12\OOP_LAB_12\obj\Debug\OOP_LAB_12.csprojResolveAssemblyReference.cache
+d:\OOP\OOP_LAB_12\OOP_LAB_12\obj\Debug\OOP_LAB_12.csproj.CoreCompileInputs.cache
+d:\OOP\OOP_LAB_12\OOP_LAB_12\obj\Debug\OOP_LAB_12.exe
+d:\OOP\OOP_LAB_12\OOP_LAB_12\obj\Debug\OOP_LAB_12.pdb

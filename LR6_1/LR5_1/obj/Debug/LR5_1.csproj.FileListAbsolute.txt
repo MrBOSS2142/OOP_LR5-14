@@ -1,0 +1,14 @@
+D:\OOP\LR5_1\LR5_1\obj\Debug\LR5_1.csprojResolveAssemblyReference.cache
+D:\OOP\LR5_1\LR5_1\obj\Debug\LR5_1.csproj.CoreCompileInputs.cache
+D:\OOP\LR5_1\LR5_1\bin\Debug\LR5_1.exe.config
+D:\OOP\LR5_1\LR5_1\bin\Debug\LR5_1.exe
+D:\OOP\LR5_1\LR5_1\bin\Debug\LR5_1.pdb
+D:\OOP\LR5_1\LR5_1\obj\Debug\LR5_1.exe
+D:\OOP\LR5_1\LR5_1\obj\Debug\LR5_1.pdb
+d:\OOP\LR6_1\LR5_1\bin\Debug\LR5_1.exe.config
+d:\OOP\LR6_1\LR5_1\bin\Debug\LR5_1.exe
+d:\OOP\LR6_1\LR5_1\bin\Debug\LR5_1.pdb
+d:\OOP\LR6_1\LR5_1\obj\Debug\LR5_1.csproj.CoreCompileInputs.cache
+d:\OOP\LR6_1\LR5_1\obj\Debug\LR5_1.exe
+d:\OOP\LR6_1\LR5_1\obj\Debug\LR5_1.pdb
+d:\OOP\LR6_1\LR5_1\obj\Debug\LR5_1.csprojResolveAssemblyReference.cache

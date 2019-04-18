@@ -1,0 +1,14 @@
+D:\Lr_C#\Collections10\Collections10\bin\Debug\Collections10.exe.config
+D:\Lr_C#\Collections10\Collections10\bin\Debug\Collections10.exe
+D:\Lr_C#\Collections10\Collections10\bin\Debug\Collections10.pdb
+D:\Lr_C#\Collections10\Collections10\obj\Debug\Collections10.csprojResolveAssemblyReference.cache
+D:\Lr_C#\Collections10\Collections10\obj\Debug\Collections10.csproj.CoreCompileInputs.cache
+D:\Lr_C#\Collections10\Collections10\obj\Debug\Collections10.exe
+D:\Lr_C#\Collections10\Collections10\obj\Debug\Collections10.pdb
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Collections10\Collections10\bin\Debug\Collections10.exe.config
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Collections10\Collections10\bin\Debug\Collections10.exe
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Collections10\Collections10\bin\Debug\Collections10.pdb
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Collections10\Collections10\obj\Debug\Collections10.csprojResolveAssemblyReference.cache
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Collections10\Collections10\obj\Debug\Collections10.csproj.CoreCompileInputs.cache
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Collections10\Collections10\obj\Debug\Collections10.exe
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Collections10\Collections10\obj\Debug\Collections10.pdb

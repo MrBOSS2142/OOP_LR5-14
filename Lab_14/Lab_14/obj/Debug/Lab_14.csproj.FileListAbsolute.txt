@@ -1,0 +1,7 @@
+D:\OOP\Lab_14\Lab_14\obj\Debug\Lab_14.csprojResolveAssemblyReference.cache
+D:\OOP\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.CoreCompileInputs.cache
+D:\OOP\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+D:\OOP\Lab_14\Lab_14\bin\Debug\Lab_14.exe
+D:\OOP\Lab_14\Lab_14\bin\Debug\Lab_14.pdb
+D:\OOP\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+D:\OOP\Lab_14\Lab_14\obj\Debug\Lab_14.pdb

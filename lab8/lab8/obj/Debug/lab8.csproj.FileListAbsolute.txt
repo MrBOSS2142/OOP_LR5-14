@@ -1,0 +1,21 @@
+E:\лабы 2 курс\ООП\lab8\lab8\bin\Debug\lab8.exe.config
+E:\лабы 2 курс\ООП\lab8\lab8\bin\Debug\lab8.exe
+E:\лабы 2 курс\ООП\lab8\lab8\bin\Debug\lab8.pdb
+E:\лабы 2 курс\ООП\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+E:\лабы 2 курс\ООП\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+E:\лабы 2 курс\ООП\lab8\lab8\obj\Debug\lab8.exe
+E:\лабы 2 курс\ООП\lab8\lab8\obj\Debug\lab8.pdb
+d:\Учеба\2 курс\1 семестр\ООП\lab8\lab8\bin\Debug\lab8.exe.config
+d:\Учеба\2 курс\1 семестр\ООП\lab8\lab8\bin\Debug\lab8.exe
+d:\Учеба\2 курс\1 семестр\ООП\lab8\lab8\bin\Debug\lab8.pdb
+d:\Учеба\2 курс\1 семестр\ООП\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+d:\Учеба\2 курс\1 семестр\ООП\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+d:\Учеба\2 курс\1 семестр\ООП\lab8\lab8\obj\Debug\lab8.exe
+d:\Учеба\2 курс\1 семестр\ООП\lab8\lab8\obj\Debug\lab8.pdb
+d:\OOP\lab8\lab8\bin\Debug\lab8.exe.config
+d:\OOP\lab8\lab8\bin\Debug\lab8.exe
+d:\OOP\lab8\lab8\bin\Debug\lab8.pdb
+d:\OOP\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+d:\OOP\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+d:\OOP\lab8\lab8\obj\Debug\lab8.exe
+d:\OOP\lab8\lab8\obj\Debug\lab8.pdb

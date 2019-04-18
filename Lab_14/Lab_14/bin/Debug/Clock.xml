@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Clock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Clock</Name>
+  <Cost>150</Cost>
+  <ExpirationDate>No Limite</ExpirationDate>
+  <ClockName>Festina</ClockName>
+</Clock>

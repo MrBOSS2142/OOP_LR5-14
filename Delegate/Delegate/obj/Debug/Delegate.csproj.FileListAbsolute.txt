@@ -1,0 +1,14 @@
+D:\Lr_C#\Delegate\Delegate\bin\Debug\Delegate.exe.config
+D:\Lr_C#\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\Lr_C#\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\Lr_C#\Delegate\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+D:\Lr_C#\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Lr_C#\Delegate\Delegate\obj\Debug\Delegate.exe
+D:\Lr_C#\Delegate\Delegate\obj\Debug\Delegate.pdb
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Delegate\Delegate\bin\Debug\Delegate.exe.config
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Delegate\Delegate\bin\Debug\Delegate.exe
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Delegate\Delegate\bin\Debug\Delegate.pdb
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Delegate\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Delegate\Delegate\obj\Debug\Delegate.exe
+d:\Учеба\2 курс\1 семестр\ООП\ЛР\Delegate\Delegate\obj\Debug\Delegate.pdb

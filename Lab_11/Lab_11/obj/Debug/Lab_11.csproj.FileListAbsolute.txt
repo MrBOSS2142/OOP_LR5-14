@@ -1,0 +1,14 @@
+D:\Lr_C#\Lab_11\Lab_11\bin\Debug\Lab_11.exe.config
+D:\Lr_C#\Lab_11\Lab_11\bin\Debug\Lab_11.exe
+D:\Lr_C#\Lab_11\Lab_11\bin\Debug\Lab_11.pdb
+D:\Lr_C#\Lab_11\Lab_11\obj\Debug\Lab_11.csprojResolveAssemblyReference.cache
+D:\Lr_C#\Lab_11\Lab_11\obj\Debug\Lab_11.csproj.CoreCompileInputs.cache
+D:\Lr_C#\Lab_11\Lab_11\obj\Debug\Lab_11.exe
+D:\Lr_C#\Lab_11\Lab_11\obj\Debug\Lab_11.pdb
+D:\Учеба\2 курс\1 семестр\ООП\ЛР\Lab_11\Lab_11\bin\Debug\Lab_11.exe.config
+D:\Учеба\2 курс\1 семестр\ООП\ЛР\Lab_11\Lab_11\bin\Debug\Lab_11.exe
+D:\Учеба\2 курс\1 семестр\ООП\ЛР\Lab_11\Lab_11\bin\Debug\Lab_11.pdb
+D:\Учеба\2 курс\1 семестр\ООП\ЛР\Lab_11\Lab_11\obj\Debug\Lab_11.csprojResolveAssemblyReference.cache
+D:\Учеба\2 курс\1 семестр\ООП\ЛР\Lab_11\Lab_11\obj\Debug\Lab_11.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\1 семестр\ООП\ЛР\Lab_11\Lab_11\obj\Debug\Lab_11.exe
+D:\Учеба\2 курс\1 семестр\ООП\ЛР\Lab_11\Lab_11\obj\Debug\Lab_11.pdb
